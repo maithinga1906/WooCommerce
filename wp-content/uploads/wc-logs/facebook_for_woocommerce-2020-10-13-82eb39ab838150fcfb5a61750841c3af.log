@@ -1,0 +1,5 @@
+10-13-2020 @ 02:31:58 - Starting upgrade to v2.0.3
+10-13-2020 @ 02:31:58 - Upgrade to v2.0.3 complete
+10-13-2020 @ 02:31:58 - Starting upgrade to v2.0.4
+10-13-2020 @ 02:32:00 - Upgrade to v2.0.4 complete
+10-13-2020 @ 02:42:49 - There was an error trying sync products using the Catalog Batch API for job 30f7e088fef98bfb74823b34cab8cb49: Cannot create the API instance because the access token is missing.
